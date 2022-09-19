@@ -1,1 +1,1 @@
-# React Typscript Todo App
+# React Typescript Todo App
